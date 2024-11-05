@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iqexoelu.github.io/GAC/sitemap_index.txt
+Sitemap: https://iqexoelu.github.io/lNU/sitemap_index.txt
+Sitemap: https://iqexoelu.github.io/tFp/sitemap_index.txt
+Sitemap: https://iqexoelu.github.io/ytb/sitemap_index.txt
